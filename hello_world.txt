@@ -1,1 +1,2 @@
 This is a test for git familiarity. 
+Change here for testing the git config for using vsc for commit messages
